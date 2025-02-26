@@ -10,4 +10,4 @@ Linking typically occurs through a QR code prepared by Signal
 
 I visit a web page and find this useful to understand the whole senario.
 
-[I attached the link] (https://arstechnica.com/information-technology/2025/02/russia-aligned-hackers-are-targeting-signal-users-with-device-linking-qr-codes/)
+[I attached the link](https://arstechnica.com/information-technology/2025/02/russia-aligned-hackers-are-targeting-signal-users-with-device-linking-qr-codes/)
